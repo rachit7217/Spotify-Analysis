@@ -1,4 +1,5 @@
 # Spotify-Analysis
+![logo](https://github.com/rachit7217/Spotify-Analysis/blob/main/Dashboard%2011%20Spotify.png)
 **Project Summary: "Blinkit Sales Analysis"**
 
 The "Blinkit Sales Analysis" project aims to provide a comprehensive dashboard for tracking and analyzing sales performance using Power BI, Excel, and SQL. The analysis helps Blinkit, an e-commerce platform, monitor KPIs such as revenue, customer trends, product performance, and operational efficiency. The dashboard provides insights into sales patterns, enabling the business to make data-driven decisions for better market strategies.
